@@ -1,0 +1,2 @@
+Made a Email-collector by python.
+email.png which is provided in the my project repository is very important place where you have placed python file.
